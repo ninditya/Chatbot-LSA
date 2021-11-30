@@ -1,2 +1,2 @@
 # Chatbot-LSA
-Latent Semantic Analysis
+Chatbot using Latent Semantic Analysis Method
